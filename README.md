@@ -5,4 +5,6 @@ Processing image using 3 different method:
     
     2. 	Perform camera calibration, and find out the parameters of the digital camera by image itself
     
+    3.  Calculate optical flow to detect motion
+    
     3.  Calculate optical flow to detect the motion
